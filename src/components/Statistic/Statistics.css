@@ -1,0 +1,14 @@
+.statisticWrapper{
+    background-color: #c1c1c173;
+    width: 250px;
+    border: 1px solid;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 40px;
+}
+
+.statisticList{
+display: flex;
+gap: 15px;
+}

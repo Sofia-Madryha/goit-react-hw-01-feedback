@@ -1,0 +1,43 @@
+.profileWrapper{
+    display: flex;
+    flex-direction: column;
+    margin: 40px;
+    width: 250px;
+    background-color: #f0b9db6b;
+    padding: 10px;
+    border: 1px solid;
+}
+
+.profileInfo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.profileImg{
+    width: 150px;
+    height: 150px;
+}
+
+.profileTag{
+    color: #606060;
+    align-self: center;
+}
+
+.profileLocation{
+    color: #606060;
+    margin-bottom: 10px;
+}
+
+.statsList{
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+    background-color: #8d8a8a95;
+}
+.statsItem{
+    text-align: center;
+    border: solid 5px #181818;
+    
+}
